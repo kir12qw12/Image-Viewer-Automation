@@ -1,6 +1,6 @@
 # Image Viewer Automation
 
-Простой проект на Python с использованием Playwright и PIL/Tkinter.  
+Простой проект на Python с использованием PIL и Tkinter.  
 Проект демонстрирует базовую автоматизацию действий в браузере и работу с изображениями.
 
 ## Что делает
@@ -8,8 +8,7 @@
 - Скачивает случайную картинку  
 - Показывает её на полный экран на 5 секунд  
 
-## Используемые библиотеки
-- [Playwright](https://playwright.dev/python/) — автоматизация браузера  
+## Используемые библиотеки 
 - [Requests](https://pypi.org/project/requests/) — скачивание картинки  
 - [Pillow](https://pillow.readthedocs.io/) — работа с изображениями  
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) — полноэкранное отображение  
